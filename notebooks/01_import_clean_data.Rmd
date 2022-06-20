@@ -4,7 +4,20 @@ author: "Tina Gorsek"
 date: '2022-06-20'
 output: html_document
 ---
+Hi, I am Tina. Nice to meet you 
 
-## Basics 
+## Abstract
 
-They will all die 
+
+
+Regeneration
+of the endometrial stromal compartment in premenopausal women is
+likely maintained by the perivascular endometrial mesenchymal
+stem/stromal cells (eMSC) expressing sushi domain containing 2
+(SUSD2). The fate of SUSD2 eMSC during pregnancy and their role in
+decidualization is not fully known. The aim of our study was to
+determine the effect of progesterone on the stemness of the SUSD2+
+eMSC isolated from non-pregnant uterine samples.
+
+
+
