@@ -7,4 +7,4 @@ output: html_document
 
 ## Basics 
 
-They will all die 
+Hi, I am Tina. Nice to meet you 
